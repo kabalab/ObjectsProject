@@ -40,4 +40,11 @@ You can create `Car` objects, assign a `Driver` to them, and control the car by 
 **Extra design notes:**  
 - Encapsulation: variables are private with public getters/setters.  
 - Composition: Car contains a Driver object.  
-- Overloaded constructors give flexibility when making cars.  
+- Overloaded constructors give flexibility when making cars.
+
+
+---
+
+##Class Diagram
+
+![UML Diagram](images/classD.png)
