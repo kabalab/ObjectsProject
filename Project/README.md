@@ -45,6 +45,6 @@ You can create `Car` objects, assign a `Driver` to them, and control the car by 
 
 ---
 
-##Class Diagram
+## Class Diagram
 
 ![UML Diagram](images/classD.png)
