@@ -3,8 +3,8 @@
  */
 public class Driver {
 
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     /**
      * Creates a driver with the given name and age.

@@ -3,12 +3,12 @@
  */
 public class Car {
 
-    int speed;
-    String color;
-    int wheelAngle;
-    String model;
-    Driver driver;
-    boolean isRunning;
+    private int speed;
+    private String color;
+    private int wheelAngle;
+    private String model;
+    private Driver driver;
+    private boolean isRunning;
 
     /**
      * Creates a car with all fields specified.
